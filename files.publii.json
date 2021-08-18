@@ -1,0 +1,802 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "8ef81da6e12d9aaab268b00442f0b7ed"
+    },
+    {
+        "path": "about-jon-kragh.html",
+        "type": "file",
+        "md5": "93c2031c49c0096bf41ebf0b937a04b0"
+    },
+    {
+        "path": "amp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/about-jon-kragh.html",
+        "type": "file",
+        "md5": "e56def5ba53b4445e69fedf354a55d0c"
+    },
+    {
+        "path": "amp/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/jon-kragh",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/jon-kragh/index.html",
+        "type": "file",
+        "md5": "1964fccb29e594091e4943c96f5c0e48"
+    },
+    {
+        "path": "amp/authors/jon-kragh/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/jon-kragh/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/jon-kragh/page/2/index.html",
+        "type": "file",
+        "md5": "ad782c7dd95ed54136e80c202392460b"
+    },
+    {
+        "path": "/amp/free-business-growth-strategy-worksheet-with-examples.html",
+        "type": "file",
+        "md5": "82df549900aad14f49fd1cc07cf9a91b"
+    },
+    {
+        "path": "/amp/free-empowering-questions-worksheet.html",
+        "type": "file",
+        "md5": "8aa279b9d71ca72364851c5116ef9fc1"
+    },
+    {
+        "path": "amp/homepage",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/homepage/index.html",
+        "type": "file",
+        "md5": "bbfaf20422bdfa192f623608b1d9967b"
+    },
+    {
+        "path": "amp/homepage/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/homepage/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/homepage/page/2/index.html",
+        "type": "file",
+        "md5": "1d5a6f278089011706aec0d6b3213bac"
+    },
+    {
+        "path": "/amp/how-to-create-a-winning-value-proposition.html",
+        "type": "file",
+        "md5": "fe951cd78fc627dbf8ca94e043202a9c"
+    },
+    {
+        "path": "/amp/how-to-prioritize.html",
+        "type": "file",
+        "md5": "c9f54c1d3f781e0ff31d7c14ff57f25b"
+    },
+    {
+        "path": "/amp/how-to-use-empathy-in-business.html",
+        "type": "file",
+        "md5": "2ff93f6e5fbc49be575fe34b094912a4"
+    },
+    {
+        "path": "/amp/how-to-use-metaphor-in-business.html",
+        "type": "file",
+        "md5": "2a567081e8edbd6a419508b8a1272dfd"
+    },
+    {
+        "path": "/amp/index.html",
+        "type": "file",
+        "md5": "e9a1e3a55147c813e912c29a14ba1619"
+    },
+    {
+        "path": "/amp/jon-kragh-30-life-principles-in-2019.html",
+        "type": "file",
+        "md5": "bb8e3db00eefc9ea1fb9abcadf04b4c4"
+    },
+    {
+        "path": "/amp/jon-kraghs-additional-life-principles-in-2020.html",
+        "type": "file",
+        "md5": "48e1c5952b6590ebd15e47dd1ffe6ec1"
+    },
+    {
+        "path": "/amp/overcoming-confirmation-bias.html",
+        "type": "file",
+        "md5": "129839ad6fb5668e2064bac0259ee8bc"
+    },
+    {
+        "path": "amp/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/page/2/index.html",
+        "type": "file",
+        "md5": "b355972c4307412a40aaa2dbaf2e719b"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "ca708dbb571ea823d540b48d9030e479"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a62251faf72d6a9abce19a111e4dd07f"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/lazysizes.min.js",
+        "type": "file",
+        "md5": "149ff45fc6c2f13e892e438a58abb77f"
+    },
+    {
+        "path": "/assets/js/ls.parent-fit.min.js",
+        "type": "file",
+        "md5": "1c78585e2a70398fe95085061942fd37"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "c061a13816b98ce8c8a7ffb2e62dc403"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "90d5a5ff4789f25f79840f95fc089c0e"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "b00814b406ac7700d941b23e08c545b0"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f56b13ba141d95ea2a0b7aab75ca9528"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg2js.js",
+        "type": "file",
+        "md5": "f1b2af45feed0620bb95e4521fb768c2"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "63bac2a8e88021dd997efbd9d8271be2"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/jon-kragh",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/jon-kragh/index.html",
+        "type": "file",
+        "md5": "71a83f7d2d6bdbe2a1b15bbe303f08b4"
+    },
+    {
+        "path": "authors/jon-kragh/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/jon-kragh/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/jon-kragh/page/2/index.html",
+        "type": "file",
+        "md5": "d8042211dbd00eb6010fb4acb52b7496"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "4953a5d930b78398fa307841c0bf6cf0"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "3911bed69bbb56af100efd54ed4b9c3f"
+    },
+    {
+        "path": "free-business-growth-strategy-worksheet-with-examples.html",
+        "type": "file",
+        "md5": "5d1c6fb61119de47e54820909439c085"
+    },
+    {
+        "path": "free-empowering-questions-worksheet.html",
+        "type": "file",
+        "md5": "97f59c28030250e12fd9fea1e740709c"
+    },
+    {
+        "path": "homepage",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/index.html",
+        "type": "file",
+        "md5": "7004c28cc8277cef75f657554e2da6be"
+    },
+    {
+        "path": "homepage/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "homepage/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/homepage/page/2/index.html",
+        "type": "file",
+        "md5": "b19b6f172213f45bde1712ceec9f1eb6"
+    },
+    {
+        "path": "how-to-create-a-winning-value-proposition.html",
+        "type": "file",
+        "md5": "e734d1f7a1c8c906693cf9c276fbfa52"
+    },
+    {
+        "path": "how-to-prioritize.html",
+        "type": "file",
+        "md5": "894e82aba92acee544670b99868b3296"
+    },
+    {
+        "path": "how-to-use-empathy-in-business.html",
+        "type": "file",
+        "md5": "aca8182f6d2a98f80c32c14917a74c29"
+    },
+    {
+        "path": "how-to-use-metaphor-in-business.html",
+        "type": "file",
+        "md5": "ca67e78bf2c12cac2705672fce2ebc82"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "e657ed696732793fb19d64785c520fbe"
+    },
+    {
+        "path": "Jon Kragh - The Big Five Aspects Scale.pdf",
+        "type": "file",
+        "md5": "db2f89935895d6edb4be1f633d441388"
+    },
+    {
+        "path": "jon-kragh-30-life-principles-in-2019.html",
+        "type": "file",
+        "md5": "d1e5cdb5fad872e036d0dd5889986250"
+    },
+    {
+        "path": "jon-kraghs-additional-life-principles-in-2020.html",
+        "type": "file",
+        "md5": "1289288b300c9c90396611151009cb14"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/business-growth-strategy-worksheet.jpg",
+        "type": "file",
+        "md5": "26d0e1991b40259b1de664bd31485a5e"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/business-growth-strategy-worksheet-2xl.jpg",
+        "type": "file",
+        "md5": "f6e93a429cf0f84f1fde69a427892a69"
+    },
+    {
+        "path": "/media/posts/1/responsive/business-growth-strategy-worksheet-lg.jpg",
+        "type": "file",
+        "md5": "189b4c67e486083c525536d4aea1a99b"
+    },
+    {
+        "path": "/media/posts/1/responsive/business-growth-strategy-worksheet-md.jpg",
+        "type": "file",
+        "md5": "ad066575be6f84d4c1a4088b573147e3"
+    },
+    {
+        "path": "/media/posts/1/responsive/business-growth-strategy-worksheet-sm.jpg",
+        "type": "file",
+        "md5": "db61711c541585a3cfd137f1f7b678bb"
+    },
+    {
+        "path": "/media/posts/1/responsive/business-growth-strategy-worksheet-xl.jpg",
+        "type": "file",
+        "md5": "f6e93a429cf0f84f1fde69a427892a69"
+    },
+    {
+        "path": "/media/posts/1/responsive/business-growth-strategy-worksheet-xs.jpg",
+        "type": "file",
+        "md5": "327dc9c6993a4943ac5a4637286eba8f"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Value-Prop-2-2xl.png",
+        "type": "file",
+        "md5": "0fb89d75204848fefd128bbf2040497a"
+    },
+    {
+        "path": "/media/posts/2/responsive/Value-Prop-2-lg.png",
+        "type": "file",
+        "md5": "3fcd2e6715558f3ba6fb6e184f533928"
+    },
+    {
+        "path": "/media/posts/2/responsive/Value-Prop-2-md.png",
+        "type": "file",
+        "md5": "3de476908244279c1b70d32a9803714c"
+    },
+    {
+        "path": "/media/posts/2/responsive/Value-Prop-2-sm.png",
+        "type": "file",
+        "md5": "879b10ca34d5f928fd30d15aae5d3b1c"
+    },
+    {
+        "path": "/media/posts/2/responsive/Value-Prop-2-xl.png",
+        "type": "file",
+        "md5": "0fb89d75204848fefd128bbf2040497a"
+    },
+    {
+        "path": "/media/posts/2/responsive/Value-Prop-2-xs.png",
+        "type": "file",
+        "md5": "53a136e9c84b576e300e8c5a7bf675f8"
+    },
+    {
+        "path": "/media/posts/2/Value-Prop-2.png",
+        "type": "file",
+        "md5": "c30cd0a962e745f2b21019ac29a1505a"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/DSC06259.jpg",
+        "type": "file",
+        "md5": "a9c104a42eb6f2218c008e747949cc30"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/DSC06259-2xl.jpg",
+        "type": "file",
+        "md5": "ba08b6a08bca6a63985986e960080454"
+    },
+    {
+        "path": "/media/posts/4/responsive/DSC06259-lg.jpg",
+        "type": "file",
+        "md5": "36355561e126580d2b356266097a83b6"
+    },
+    {
+        "path": "/media/posts/4/responsive/DSC06259-md.jpg",
+        "type": "file",
+        "md5": "f9813827cd4f34b934ce861619790322"
+    },
+    {
+        "path": "/media/posts/4/responsive/DSC06259-sm.jpg",
+        "type": "file",
+        "md5": "de204b735e000ac30987afc8a05ee1b2"
+    },
+    {
+        "path": "/media/posts/4/responsive/DSC06259-xl.jpg",
+        "type": "file",
+        "md5": "01b1b3e6fcefa11b85540406e53711c8"
+    },
+    {
+        "path": "/media/posts/4/responsive/DSC06259-xs.jpg",
+        "type": "file",
+        "md5": "17d744c9363d7282d509cd18266b39b2"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/30-Life-Principles.png",
+        "type": "file",
+        "md5": "07c6f187f8c1469d36f18204bb7975ab"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/30-Life-Principles-2xl.png",
+        "type": "file",
+        "md5": "f2d61d608c1d44a005b3aca4dde48e1a"
+    },
+    {
+        "path": "/media/posts/5/responsive/30-Life-Principles-lg.png",
+        "type": "file",
+        "md5": "4bc71115e28cf2d3c05e62ecf5580545"
+    },
+    {
+        "path": "/media/posts/5/responsive/30-Life-Principles-md.png",
+        "type": "file",
+        "md5": "13d80f4f6505f6d847d015e11e549e2c"
+    },
+    {
+        "path": "/media/posts/5/responsive/30-Life-Principles-sm.png",
+        "type": "file",
+        "md5": "0fb6f5f0b0c8ca95f779fc8a14217a59"
+    },
+    {
+        "path": "/media/posts/5/responsive/30-Life-Principles-xl.png",
+        "type": "file",
+        "md5": "f2d61d608c1d44a005b3aca4dde48e1a"
+    },
+    {
+        "path": "/media/posts/5/responsive/30-Life-Principles-xs.png",
+        "type": "file",
+        "md5": "7fe08f6c32e77bbcf4fda461604fed50"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/jon-kragh-empowering-questions.png",
+        "type": "file",
+        "md5": "462c1e24dcf72f485012cd7cbbbd1a0e"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/jon-kragh-empowering-questions-2xl.png",
+        "type": "file",
+        "md5": "d6ab13f3787fe3d55886a389c07613fc"
+    },
+    {
+        "path": "/media/posts/6/responsive/jon-kragh-empowering-questions-lg.png",
+        "type": "file",
+        "md5": "6d5384a9cf69a3989e7f9546e7283597"
+    },
+    {
+        "path": "/media/posts/6/responsive/jon-kragh-empowering-questions-md.png",
+        "type": "file",
+        "md5": "8cd377f9336c0c51ebad6ebca3600d10"
+    },
+    {
+        "path": "/media/posts/6/responsive/jon-kragh-empowering-questions-sm.png",
+        "type": "file",
+        "md5": "afbdb8785a3892051e768265c1756060"
+    },
+    {
+        "path": "/media/posts/6/responsive/jon-kragh-empowering-questions-xl.png",
+        "type": "file",
+        "md5": "d6ab13f3787fe3d55886a389c07613fc"
+    },
+    {
+        "path": "/media/posts/6/responsive/jon-kragh-empowering-questions-xs.png",
+        "type": "file",
+        "md5": "a3abfa4b9ed9e03643d2cd7c044160b2"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/overcoming-confirmation-bias.png",
+        "type": "file",
+        "md5": "8427e405343fe46d32aaa588d9ae3482"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/overcoming-confirmation-bias-2xl.png",
+        "type": "file",
+        "md5": "e4ef1f4a8328e1ca257a19e041bd9012"
+    },
+    {
+        "path": "/media/posts/8/responsive/overcoming-confirmation-bias-lg.png",
+        "type": "file",
+        "md5": "372f9217599a90ba0e21df173a8175f5"
+    },
+    {
+        "path": "/media/posts/8/responsive/overcoming-confirmation-bias-md.png",
+        "type": "file",
+        "md5": "67ed80b40b66fca034269135a77f9de4"
+    },
+    {
+        "path": "/media/posts/8/responsive/overcoming-confirmation-bias-sm.png",
+        "type": "file",
+        "md5": "af8b7a8bb16bdec1e5e8b58ab9d74a1b"
+    },
+    {
+        "path": "/media/posts/8/responsive/overcoming-confirmation-bias-xl.png",
+        "type": "file",
+        "md5": "e4ef1f4a8328e1ca257a19e041bd9012"
+    },
+    {
+        "path": "/media/posts/8/responsive/overcoming-confirmation-bias-xs.png",
+        "type": "file",
+        "md5": "6c6f8d3f7d1a3d46d3437649f81b31ef"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/How-to-use-metaphor-in-business-jon-kragh.png",
+        "type": "file",
+        "md5": "5bf2a8bac761846a6d656f23860fe17c"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/How-to-use-metaphor-in-business-jon-kragh-2xl.png",
+        "type": "file",
+        "md5": "5385b71fd349373cd3998c8317715cb2"
+    },
+    {
+        "path": "/media/posts/9/responsive/How-to-use-metaphor-in-business-jon-kragh-lg.png",
+        "type": "file",
+        "md5": "fc73ed213460de55b7bf9eb6972da11b"
+    },
+    {
+        "path": "/media/posts/9/responsive/How-to-use-metaphor-in-business-jon-kragh-md.png",
+        "type": "file",
+        "md5": "4ab26c9a0c887fdf11fd4bd46afcf5e6"
+    },
+    {
+        "path": "/media/posts/9/responsive/How-to-use-metaphor-in-business-jon-kragh-sm.png",
+        "type": "file",
+        "md5": "c8823259ddcdc3a912768a591ab9ecc7"
+    },
+    {
+        "path": "/media/posts/9/responsive/How-to-use-metaphor-in-business-jon-kragh-xl.png",
+        "type": "file",
+        "md5": "5385b71fd349373cd3998c8317715cb2"
+    },
+    {
+        "path": "/media/posts/9/responsive/How-to-use-metaphor-in-business-jon-kragh-xs.png",
+        "type": "file",
+        "md5": "76e1fca32f83f33d8ee68c16f7e82ef6"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/JonKragh_77_Final.jpg",
+        "type": "file",
+        "md5": "7662bd4c02e14c896d8d62bb42015085"
+    },
+    {
+        "path": "/media/website/Jon_Kragh_Arms_475.jpg",
+        "type": "file",
+        "md5": "bac2d9e899160d4f259a860cb36e9476"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/JonKragh_77_Final-2xl.jpg",
+        "type": "file",
+        "md5": "dad934ba4f2d4cfa136ff982d3491252"
+    },
+    {
+        "path": "/media/website/responsive/JonKragh_77_Final-lg.jpg",
+        "type": "file",
+        "md5": "5e406809efae07515451c0e82c8385ee"
+    },
+    {
+        "path": "/media/website/responsive/JonKragh_77_Final-md.jpg",
+        "type": "file",
+        "md5": "258677606cabb4967d76ea8de51afe31"
+    },
+    {
+        "path": "/media/website/responsive/JonKragh_77_Final-sm.jpg",
+        "type": "file",
+        "md5": "f257a59904e4fab92b16fb24c5b07ee0"
+    },
+    {
+        "path": "/media/website/responsive/JonKragh_77_Final-xl.jpg",
+        "type": "file",
+        "md5": "3f11bfa8566580fbb1166f92a94d7aff"
+    },
+    {
+        "path": "/media/website/responsive/JonKragh_77_Final-xs.jpg",
+        "type": "file",
+        "md5": "407154225cbb1acec86457628151bb14"
+    },
+    {
+        "path": "/media/website/responsive/Jon_Kragh_Arms_475-2xl.jpg",
+        "type": "file",
+        "md5": "9f33e081edb4580bbdff33d3f8ad43d8"
+    },
+    {
+        "path": "/media/website/responsive/Jon_Kragh_Arms_475-lg.jpg",
+        "type": "file",
+        "md5": "9f33e081edb4580bbdff33d3f8ad43d8"
+    },
+    {
+        "path": "/media/website/responsive/Jon_Kragh_Arms_475-md.jpg",
+        "type": "file",
+        "md5": "9f33e081edb4580bbdff33d3f8ad43d8"
+    },
+    {
+        "path": "/media/website/responsive/Jon_Kragh_Arms_475-sm.jpg",
+        "type": "file",
+        "md5": "9f33e081edb4580bbdff33d3f8ad43d8"
+    },
+    {
+        "path": "/media/website/responsive/Jon_Kragh_Arms_475-xl.jpg",
+        "type": "file",
+        "md5": "9f33e081edb4580bbdff33d3f8ad43d8"
+    },
+    {
+        "path": "/media/website/responsive/Jon_Kragh_Arms_475-xs.jpg",
+        "type": "file",
+        "md5": "b1ea84fa2da6908a0792f26f3d7e4106"
+    },
+    {
+        "path": "overcoming-confirmation-bias.html",
+        "type": "file",
+        "md5": "637fad1820eab0c87dd90ec557af51d8"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "050d9d0fd686cff5738d8d063ec4357b"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "882f66c9dbd0c36f08ab6b305502eb3a"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "4a06a6839c93f82dfc1de33ca19e57a4"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "3733b97d77fb11ed64ac2196805c531a"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    }
+]
