@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This repository contains my blog https://www.jonkragh.com/, which I recently moved to a public GitHub repo for a better chance at longevity.
+
 <!--
 **JonKragh/jonkragh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
