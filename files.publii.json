@@ -7,7 +7,7 @@
     {
         "path": "about-jon-kragh.html",
         "type": "file",
-        "md5": "11c24d7ec5e951399e2ffab1a84e6da9"
+        "md5": "ba553d7f55679eb2e73b3a60621285c2"
     },
     {
         "path": "amp",
@@ -22,7 +22,7 @@
     {
         "path": "/amp/amplify-your-value-proposition-with-the-elements-of-value-eric-almquist.html",
         "type": "file",
-        "md5": "2c24f6b83805c514e972a052b6f5cc77"
+        "md5": "a2634584851a313ed4e32c8409c7313e"
     },
     {
         "path": "amp/authors",
@@ -37,7 +37,7 @@
     {
         "path": "/amp/authors/jon-kragh/index.html",
         "type": "file",
-        "md5": "859521da49c2e765e6c9046e10fec523"
+        "md5": "6b9ff5754199eea4536950b4e5e4247a"
     },
     {
         "path": "amp/authors/jon-kragh/page",
@@ -52,7 +52,7 @@
     {
         "path": "/amp/authors/jon-kragh/page/2/index.html",
         "type": "file",
-        "md5": "26e35c25cc34fb8c99ce729881d44ae5"
+        "md5": "10cbf100550233c8d8133ef8dd8aeffe"
     },
     {
         "path": "amp/authors/jon-kragh/page/3",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/authors/jon-kragh/page/3/index.html",
         "type": "file",
-        "md5": "dc3c443a900b7824c96d2dedcfda0799"
+        "md5": "3ff27daca4dcdd2f5e5bcb617a5fc418"
     },
     {
         "path": "/amp/free-business-growth-strategy-worksheet-with-examples.html",
@@ -122,12 +122,17 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "e3e31c41a85ee318834dc527235c626e"
+        "md5": "de818676e96816527486121c786241db"
     },
     {
         "path": "/amp/jon-kragh-30-life-principles-in-2019.html",
         "type": "file",
         "md5": "bb8e3db00eefc9ea1fb9abcadf04b4c4"
+    },
+    {
+        "path": "/amp/jon-kragh-50-life-principles.html",
+        "type": "file",
+        "md5": "844dc7f0abc37eb0821c844cc8008947"
     },
     {
         "path": "/amp/jon-kraghs-additional-life-principles-in-2020.html",
@@ -152,12 +157,22 @@
     {
         "path": "/amp/page/2/index.html",
         "type": "file",
-        "md5": "cde3b40384bd6dbfbe75bfa2309012c2"
+        "md5": "f0a004a2c2d34e6df31380807da13502"
+    },
+    {
+        "path": "amp/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/page/3/index.html",
+        "type": "file",
+        "md5": "7567894a353ec82bb17cdbb79cf5e31f"
     },
     {
         "path": "amplify-your-value-proposition-with-the-elements-of-value-eric-almquist.html",
         "type": "file",
-        "md5": "f9ed84fcf131cd15046289108f965c45"
+        "md5": "98265e25147f708eedcd6a0528ae1ebc"
     },
     {
         "path": "assets",
@@ -272,7 +287,7 @@
     {
         "path": "/authors/jon-kragh/index.html",
         "type": "file",
-        "md5": "488e5ee5c4931568bde5bd3907040fff"
+        "md5": "27ad4a0baf061565b741908b8df71f00"
     },
     {
         "path": "authors/jon-kragh/page",
@@ -287,7 +302,7 @@
     {
         "path": "/authors/jon-kragh/page/2/index.html",
         "type": "file",
-        "md5": "06bc4c39548dec6ff2568beecbb9941e"
+        "md5": "c18b5899a93d62cdf0d3af339ddc6478"
     },
     {
         "path": "authors/jon-kragh/page/3",
@@ -297,17 +312,17 @@
     {
         "path": "/authors/jon-kragh/page/3/index.html",
         "type": "file",
-        "md5": "39ed2233a08f3f8c972984ce4b671821"
+        "md5": "ca125ea81a11258a9c4e2177f8d6fdd6"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "c6373d658e98b8624cda64a3b34ad1d4"
+        "md5": "8f996cedf2e83f3a289472f3447284a1"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "63628ce8198a50df4760af52e9fa11cb"
+        "md5": "2abbdb7db955f8ffbbdabd35eead33ee"
     },
     {
         "path": "free-business-growth-strategy-worksheet-with-examples.html",
@@ -367,7 +382,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a771296cbc24146c5a988fae3c8020c1"
+        "md5": "86493445b9a906af08401be08203dc63"
     },
     {
         "path": "Jon Kragh - The Big Five Aspects Scale.pdf",
@@ -378,6 +393,11 @@
         "path": "jon-kragh-30-life-principles-in-2019.html",
         "type": "file",
         "md5": "d1e5cdb5fad872e036d0dd5889986250"
+    },
+    {
+        "path": "jon-kragh-50-life-principles.html",
+        "type": "file",
+        "md5": "89381d12cc4a14d43d743d730450664b"
     },
     {
         "path": "jon-kraghs-additional-life-principles-in-2020.html",
@@ -807,7 +827,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "01cbea3a0c436f3f1cb7734e8798ff0f"
+        "md5": "f4015f2c4dbabc8ccc7f9703db06980f"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "5cf1468e4dea494f72e23934b66ec2e4"
     },
     {
         "path": "robots.txt",
@@ -822,7 +852,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f791eeb8e6e8d3ad579a16478975b6c6"
+        "md5": "c8b4ad0fe86772825069423133ca565b"
     },
     {
         "path": "sitemap.xsl",

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.jonkragh.com/jon-kragh-50-life-principles.html",
+            "url": "https://www.jonkragh.com/jon-kragh-50-life-principles.html",
+            "title": "Jon Kragh 50 Life Principles",
+            "summary": " I think a lot about longevity. I often tell my wife that if I pass away, at least pass along my principles to our children. How do you memorialize content so that the content outlives you? The short answer is we can only guess&hellip;",
+            "content_html": "<figure>\n<div>I think a lot about longevity. I often tell my wife that if I pass away, at least pass along my principles to our children. </div>\n<div> </div>\n<div>How do you memorialize content so that the content outlives you? </div>\n<div> </div>\n<div>The short answer is we can only guess today what will last for hundreds of years past tomorrow. Recently, in a move towards multi-generational longevity, I moved the source code for this blog to GitHub, which may have a chance to live for a few hundred years. </div>\n<div> </div>\n<div>Maybe.</div>\n<div> </div>\n<div>YouTube is another medium that may have legs for a few generations. While I think that paper is the only proven medium for content longevity, we also have not had digital technology long enough to know what will last for generations.</div>\n<div> </div>\n<div>So with that in mind, I narrated my life principles and posted them on YouTube, not for accolades for today, but for longevity for tomorrow. In a world where people post content for a brief moment of high visibility, I post content for long-term personal impact.</div>\n<div> </div>\n<div>Here is the video and narration.</div>\n<div> </div>\n<div> </div>\n</figure>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/wSRnhveBrXY?t=178s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "author": {
+                "name": "Jon Kragh"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-13T16:01:52-05:00",
+            "date_modified": "2021-11-13T16:01:52-05:00"
+        },
+        {
             "id": "https://www.jonkragh.com/amplify-your-value-proposition-with-the-elements-of-value-eric-almquist.html",
             "url": "https://www.jonkragh.com/amplify-your-value-proposition-with-the-elements-of-value-eric-almquist.html",
             "title": "Amplify Your Value Proposition with the Elements of Value - Eric Almquist",
@@ -144,22 +158,6 @@
             ],
             "date_published": "2019-08-19T20:43:36-04:00",
             "date_modified": "2021-07-18T18:56:11-04:00"
-        },
-        {
-            "id": "https://www.jonkragh.com/how-to-create-a-winning-value-proposition.html",
-            "url": "https://www.jonkragh.com/how-to-create-a-winning-value-proposition.html",
-            "title": "How to Create a Winning Value Proposition",
-            "summary": "I covered this topic is a LinkedIn post. The content comes with a free worksheet for developing a winning value proposition, with critical questions to answer. The full Google document is here to download, print, and use to craft your value proposition",
-            "content_html": "<p>I covered this topic is <a target=\"_blank\" href=\"https://www.linkedin.com/pulse/how-create-winning-value-proposition-jon-kragh\" rel=\"noopener noreferrer\">a LinkedIn post</a>. The content comes with a free worksheet for developing a winning value proposition, with critical questions to answer.</p>\n<p>The full <a href=\"https://docs.google.com/document/d/1jz83Q9EQ6BwyIkFgFaW71GB8rqnBY1oV36fAug_Bh-8/edit?usp=sharing\">Google document is here to download</a>, print, and use to craft your value proposition</p>",
-            "image": "https://www.jonkragh.com/media/posts/2/Value-Prop-2.png",
-            "author": {
-                "name": "Jon Kragh"
-            },
-            "tags": [
-                   "homepage"
-            ],
-            "date_published": "2019-08-19T06:35:08-04:00",
-            "date_modified": "2019-08-23T21:11:43-04:00"
         }
     ]
 }

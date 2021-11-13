@@ -3,12 +3,49 @@
     <title>Jon Kragh</title>
     <link href="https://www.jonkragh.com/feed.xml" rel="self" />
     <link href="https://www.jonkragh.com" />
-    <updated>2021-11-13T14:17:08-05:00</updated>
+    <updated>2021-11-13T16:01:52-05:00</updated>
     <author>
         <name>Jon Kragh</name>
     </author>
     <id>https://www.jonkragh.com</id>
 
+    <entry>
+        <title>Jon Kragh 50 Life Principles</title>
+        <author>
+            <name>Jon Kragh</name>
+        </author>
+        <link href="https://www.jonkragh.com/jon-kragh-50-life-principles.html"/>
+        <id>https://www.jonkragh.com/jon-kragh-50-life-principles.html</id>
+
+        <updated>2021-11-13T16:01:52-05:00</updated>
+            <summary>
+                <![CDATA[
+                     I think a lot about longevity. I often tell my wife that if I pass away, at least pass along my principles to our children. How do you memorialize content so that the content outlives you? The short answer is we can only guess&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure>
+<div>I think a lot about longevity. I often tell my wife that if I pass away, at least pass along my principles to our children. </div>
+<div> </div>
+<div>How do you memorialize content so that the content outlives you? </div>
+<div> </div>
+<div>The short answer is we can only guess today what will last for hundreds of years past tomorrow. Recently, in a move towards multi-generational longevity, I moved the source code for this blog to GitHub, which may have a chance to live for a few hundred years. </div>
+<div> </div>
+<div>Maybe.</div>
+<div> </div>
+<div>YouTube is another medium that may have legs for a few generations. While I think that paper is the only proven medium for content longevity, we also have not had digital technology long enough to know what will last for generations.</div>
+<div> </div>
+<div>So with that in mind, I narrated my life principles and posted them on YouTube, not for accolades for today, but for longevity for tomorrow. In a world where people post content for a brief moment of high visibility, I post content for long-term personal impact.</div>
+<div> </div>
+<div>Here is the video and narration.</div>
+<div> </div>
+<div> </div>
+</figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/wSRnhveBrXY?t=178s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Amplify Your Value Proposition with the Elements of Value - Eric Almquist</title>
         <author>
@@ -408,30 +445,6 @@
 <li>Brian Dawkins</li>
 </ul>
 <p><span data-preserver-spaces="true">I also have several coaches. If you are a business leader, I highly recommend my coach, </span><a target="_blank" href="https://www.stratechi.com/joe-newsum/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">Joe Newsum, one of the world's best thought leaders on strategy</span></a><span data-preserver-spaces="true">.</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to Create a Winning Value Proposition</title>
-        <author>
-            <name>Jon Kragh</name>
-        </author>
-        <link href="https://www.jonkragh.com/how-to-create-a-winning-value-proposition.html"/>
-        <id>https://www.jonkragh.com/how-to-create-a-winning-value-proposition.html</id>
-            <category term="homepage"/>
-
-        <updated>2019-08-23T21:11:43-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.jonkragh.com/media/posts/2/Value-Prop-2.png" alt="" />
-                    I covered this topic is a LinkedIn post. The content comes with a free worksheet for developing a winning value proposition, with critical questions to answer. The full Google document is here to download, print, and use to craft your value proposition
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.jonkragh.com/media/posts/2/Value-Prop-2.png" alt="" />
-                <p>I covered this topic is <a target="_blank" href="https://www.linkedin.com/pulse/how-create-winning-value-proposition-jon-kragh" rel="noopener noreferrer">a LinkedIn post</a>. The content comes with a free worksheet for developing a winning value proposition, with critical questions to answer.</p>
-<p>The full <a href="https://docs.google.com/document/d/1jz83Q9EQ6BwyIkFgFaW71GB8rqnBY1oV36fAug_Bh-8/edit?usp=sharing">Google document is here to download</a>, print, and use to craft your value proposition</p>
             ]]>
         </content>
     </entry>
