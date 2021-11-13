@@ -7,7 +7,7 @@
     {
         "path": "about-jon-kragh.html",
         "type": "file",
-        "md5": "93c2031c49c0096bf41ebf0b937a04b0"
+        "md5": "11c24d7ec5e951399e2ffab1a84e6da9"
     },
     {
         "path": "amp",
@@ -17,7 +17,12 @@
     {
         "path": "/amp/about-jon-kragh.html",
         "type": "file",
-        "md5": "e56def5ba53b4445e69fedf354a55d0c"
+        "md5": "812c21a2935dd6a1b2f076fdb9451560"
+    },
+    {
+        "path": "/amp/amplify-your-value-proposition-with-the-elements-of-value-eric-almquist.html",
+        "type": "file",
+        "md5": "2c24f6b83805c514e972a052b6f5cc77"
     },
     {
         "path": "amp/authors",
@@ -32,7 +37,7 @@
     {
         "path": "/amp/authors/jon-kragh/index.html",
         "type": "file",
-        "md5": "1964fccb29e594091e4943c96f5c0e48"
+        "md5": "859521da49c2e765e6c9046e10fec523"
     },
     {
         "path": "amp/authors/jon-kragh/page",
@@ -47,7 +52,17 @@
     {
         "path": "/amp/authors/jon-kragh/page/2/index.html",
         "type": "file",
-        "md5": "ad782c7dd95ed54136e80c202392460b"
+        "md5": "26e35c25cc34fb8c99ce729881d44ae5"
+    },
+    {
+        "path": "amp/authors/jon-kragh/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/jon-kragh/page/3/index.html",
+        "type": "file",
+        "md5": "dc3c443a900b7824c96d2dedcfda0799"
     },
     {
         "path": "/amp/free-business-growth-strategy-worksheet-with-examples.html",
@@ -107,7 +122,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "e9a1e3a55147c813e912c29a14ba1619"
+        "md5": "e3e31c41a85ee318834dc527235c626e"
     },
     {
         "path": "/amp/jon-kragh-30-life-principles-in-2019.html",
@@ -117,7 +132,7 @@
     {
         "path": "/amp/jon-kraghs-additional-life-principles-in-2020.html",
         "type": "file",
-        "md5": "48e1c5952b6590ebd15e47dd1ffe6ec1"
+        "md5": "5cde84d7173372eafee88e5972cd8e54"
     },
     {
         "path": "/amp/overcoming-confirmation-bias.html",
@@ -137,7 +152,12 @@
     {
         "path": "/amp/page/2/index.html",
         "type": "file",
-        "md5": "b355972c4307412a40aaa2dbaf2e719b"
+        "md5": "cde3b40384bd6dbfbe75bfa2309012c2"
+    },
+    {
+        "path": "amplify-your-value-proposition-with-the-elements-of-value-eric-almquist.html",
+        "type": "file",
+        "md5": "f9ed84fcf131cd15046289108f965c45"
     },
     {
         "path": "assets",
@@ -252,7 +272,7 @@
     {
         "path": "/authors/jon-kragh/index.html",
         "type": "file",
-        "md5": "71a83f7d2d6bdbe2a1b15bbe303f08b4"
+        "md5": "488e5ee5c4931568bde5bd3907040fff"
     },
     {
         "path": "authors/jon-kragh/page",
@@ -267,17 +287,27 @@
     {
         "path": "/authors/jon-kragh/page/2/index.html",
         "type": "file",
-        "md5": "d8042211dbd00eb6010fb4acb52b7496"
+        "md5": "06bc4c39548dec6ff2568beecbb9941e"
+    },
+    {
+        "path": "authors/jon-kragh/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/jon-kragh/page/3/index.html",
+        "type": "file",
+        "md5": "39ed2233a08f3f8c972984ce4b671821"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4953a5d930b78398fa307841c0bf6cf0"
+        "md5": "c6373d658e98b8624cda64a3b34ad1d4"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "3911bed69bbb56af100efd54ed4b9c3f"
+        "md5": "63628ce8198a50df4760af52e9fa11cb"
     },
     {
         "path": "free-business-growth-strategy-worksheet-with-examples.html",
@@ -337,7 +367,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e657ed696732793fb19d64785c520fbe"
+        "md5": "a771296cbc24146c5a988fae3c8020c1"
     },
     {
         "path": "Jon Kragh - The Big Five Aspects Scale.pdf",
@@ -352,7 +382,7 @@
     {
         "path": "jon-kraghs-additional-life-principles-in-2020.html",
         "type": "file",
-        "md5": "1289288b300c9c90396611151009cb14"
+        "md5": "0489531fd8c74e6601387fc17fa65d76"
     },
     {
         "path": "media",
@@ -777,7 +807,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "050d9d0fd686cff5738d8d063ec4357b"
+        "md5": "01cbea3a0c436f3f1cb7734e8798ff0f"
     },
     {
         "path": "robots.txt",
@@ -792,7 +822,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3733b97d77fb11ed64ac2196805c531a"
+        "md5": "f791eeb8e6e8d3ad579a16478975b6c6"
     },
     {
         "path": "sitemap.xsl",
